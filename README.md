@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Software engineering at NTNU<br>🌱 I’m currently learning Next.js and Design
+🔭 I’m currently studying Artificial intelligence at NTNU<br>🌱 I’m currently learning LLM inference<br>
 
 
 ## 🌐 Socials:
